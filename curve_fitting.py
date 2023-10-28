@@ -6,7 +6,7 @@ Created on Tue Sep 27 09:26:16 2022
 @author: anushikhajoshi
 """
 
-# Question 1: Reading and Plotting the Data
+# Reading and Plotting the Data
 import numpy as np
 import matplotlib.pyplot as plt
 rocket = np.loadtxt("rocket.csv", delimiter = ",")
